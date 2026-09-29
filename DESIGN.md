@@ -38,14 +38,14 @@ visual direction — read and preserve them on every subsequent build; do not
 re-derive a new direction. The first UI pass must fill these fields in as
 part of that build, not leave them as an empty template.
 
-- Product mode: `operate` | `read` | `persuade` | `experience`
-- Audience and cadence:
-- Visual world (name + the feeling it creates):
-- Palette family + neutral undertone:
-- Type treatment:
-- Composition:
-- Shape language:
-- Anti-references (defaults this app must not drift toward):
+- Product mode: `operate`
+- Audience and cadence: SIH judges, BEL evaluators, and UGV operators reviewing missions and autonomy status.
+- Visual world (name + the feeling it creates): Field operations console — calm, precise, and terrain-aware.
+- Palette family + neutral undertone: Pine green with cool, mineral gray-green neutrals.
+- Type treatment: Sans-first with compact technical labels and a strong operational heading.
+- Composition: Focused mission workbench with a dominant route map and supporting camera feed.
+- Shape language: Crisp utility surfaces, fine borders, and restrained rounded corners.
+- Anti-references (defaults this app must not drift toward): Aircraft or drone imagery, weapons, combat graphics, neon tactical overlays, generic SaaS gradients, or decorative status clutter.
 
 ## Agent-native is structural, not visual
 
